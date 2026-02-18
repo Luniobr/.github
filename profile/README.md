@@ -56,3 +56,18 @@ Você pode colaborar através de:
 > 💡 “A comunidade Zabbix cresce quando compartilhamos conhecimento.”
 
 ---
+
+# 🛠 Stack & Expertise
+
+- Zabbix
+- Ansible
+- Docker & Kubernetes
+- Cloud Platforms
+- PostgreSQL & MySQL
+- Alta Disponibilidade
+- Observabilidade
+---
+
+<p align="center">
+  💙 Monitoramento é colaboração. Automação é evolução.
+</p>
